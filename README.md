@@ -1,4 +1,4 @@
 # firstrep
 This is my first repository
 <br>
- Author Bhanu Pratap Singh
+ Author Bhanu Pratap 
